@@ -22,14 +22,14 @@
 		A665CF24150F660300B45194 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A665CF26150F660300B45194 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A665CF28150F660300B45194 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		A665CF2C150F660300B45194 /* UseShareLibraryProject1-Info.plist */ = {isa = PBXFileReference; path = "UseShareLibraryProject1-Info.plist"; sourceTree = "<group>"; };
+		A665CF2C150F660300B45194 /* UseShareLibraryProject1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UseShareLibraryProject1-Info.plist"; sourceTree = "<group>"; };
 		A665CF2E150F660300B45194 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A665CF30150F660300B45194 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A665CF32150F660300B45194 /* UseShareLibraryProject1-Prefix.pch */ = {isa = PBXFileReference; path = "UseShareLibraryProject1-Prefix.pch"; sourceTree = "<group>"; };
-		A665CF33150F660300B45194 /* UseShareLibraryProject1AppDelegate.h */ = {isa = PBXFileReference; path = UseShareLibraryProject1AppDelegate.h; sourceTree = "<group>"; };
+		A665CF32150F660300B45194 /* UseShareLibraryProject1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UseShareLibraryProject1-Prefix.pch"; sourceTree = "<group>"; };
+		A665CF33150F660300B45194 /* UseShareLibraryProject1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UseShareLibraryProject1AppDelegate.h; sourceTree = "<group>"; };
 		A665CF34150F660300B45194 /* UseShareLibraryProject1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UseShareLibraryProject1AppDelegate.m; sourceTree = "<group>"; };
 		A665CF37150F660300B45194 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		A665CF39150F660300B45194 /* UseShareLibraryProject1ViewController.h */ = {isa = PBXFileReference; path = UseShareLibraryProject1ViewController.h; sourceTree = "<group>"; };
+		A665CF39150F660300B45194 /* UseShareLibraryProject1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UseShareLibraryProject1ViewController.h; sourceTree = "<group>"; };
 		A665CF3A150F660300B45194 /* UseShareLibraryProject1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UseShareLibraryProject1ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
