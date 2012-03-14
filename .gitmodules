@@ -1,0 +1,3 @@
+[submodule "ShareLibrary"]
+	path = ShareLibrary
+	url = git@github.com:deeplovepan/ShareLibrary.git
